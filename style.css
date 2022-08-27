@@ -1,0 +1,18 @@
+.jumbotron {
+padding-top: 5rem;
+}
+
+.display-4 {
+    text-align: center;
+    text-shadow: 10vh;
+}
+
+.lead {
+    text-align: center;
+}
+
+.about-me {
+    text-align: center;
+    width: 10px;
+}
+
